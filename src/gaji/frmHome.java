@@ -98,8 +98,7 @@ public class frmHome extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenu2MousePressed
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
-Staff personel = new Staff();
-personel.payday();
+
         
         
         
